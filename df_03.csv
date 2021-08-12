@@ -1,0 +1,10 @@
+feature,rank_importance_base_imp,rank_importance_perm_imp_rfpimp,rank_importance_perm_imp_eli5,rank_importance_drop_imp,importance
+suicides/100k pop,1,2,2,2,2
+population,2,1,1,1,1
+gdppercapita,3,3,3,7,3
+gdpforyear,4,4,4,8,4
+year,5,6,6,9,6
+country,6,8,5,6,6
+generation,7,7,7,4,7
+age,8,5,8,3,8
+sex,9,9,9,5,9
